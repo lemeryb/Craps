@@ -2,7 +2,7 @@
 # Author: Benjamin Lemery
 # Date: 10/24/19
 # This program allows the user to play a virtual game of craps.
-# New comment
+# I just added this!
 import random
 random.seed()
 
